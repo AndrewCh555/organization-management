@@ -1,1 +1,3 @@
-export class UpdateBossDto {}
+export class UpdateBossDto {
+  boss_id: string;
+}
